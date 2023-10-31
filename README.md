@@ -1,6 +1,6 @@
 <!-- Replace with your GitHub username -->
 
-### Hi there, I'm [Labeeb. Ak]! 👋
+### Hi there, I'm Labeeb. Ak! 👋
 
 
 <p align="center">
