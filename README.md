@@ -1,14 +1,7 @@
 <!-- Replace with your GitHub username -->
 
 ### Hi there, I'm [Labeeb. Ak]! 👋
-<table>
-  <tr>
-    <td>
-      <!-- Replace with your GitHub username -->
-      <img src="https://relevant.software/wp-content/uploads/flutter-e1625644676239.png" width="100%" style="border-radius: 8px;">
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60" />
