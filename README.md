@@ -9,12 +9,12 @@
 
 ### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FawazMV&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=labeeb77&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FawazMV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labeeb77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-*FawazMV/FawazMV* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*labeeb77/labeeb77* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
